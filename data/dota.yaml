@@ -1,0 +1,6 @@
+train: ./data/images/train
+val:   ./data/images/val
+test:  ./data/images/test
+
+nc: 16
+names: ['swimming-pool', 'ship', 'harbor', 'small-vehicle', 'large-vehicle', 'baseball-diamond', 'tennis-court', 'basketball-court', 'storage-tank', 'bridge', 'plane', 'roundabout', 'helicopter', 'soccer-ball-field', 'ground-track-field', 'container-crane']
