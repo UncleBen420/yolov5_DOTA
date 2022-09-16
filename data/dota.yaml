@@ -1,6 +1,6 @@
-train: ./data/images/train
-val:   ./data/images/val
-test:  ./data/images/test
+path: ./data
+train:   images/train
+val:  images/val
 
 nc: 1
 names: ['ship']
